@@ -1,7 +1,7 @@
 ---
 ---
-$color-primary: #3cb371;
-$color-secondary: #6ecf99;
+$color-primary: #44b6e2;
+$color-secondary: lighten($color-primary, 10%);
 $color-secondary-dark: #00283c;
 $color-muted: #777;
 
@@ -22,3 +22,15 @@ $font-secondary: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
         "2016_sass/about",
         "2016_sass/form"
 ;
+
+header .intro-heading {
+  -webkit-text-stroke-width: 3px;
+  -webkit-text-stroke-color: #000;
+}
+header .intro-text .intro-lead-in {
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: #000;
+  font-family: $font-primary;
+  font-style: initial;
+  font-weight: 900;
+}
