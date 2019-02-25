@@ -1,2 +1,24 @@
 ---
 ---
+$color-primary: #3cb371;
+$color-secondary: #6ecf99;
+$color-secondary-dark: #00283c;
+$color-muted: #777;
+
+$font-primary: Montserrat, "Helvetica Neue", Helvetica,Arial, sans-serif;
+$font-secondary: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+// Imports from _sass
+
+@import "includes/bootstrap";
+@import "includes/agency";
+
+@import
+        "2016_sass/more",
+        "2016_sass/404",
+        "2016_sass/agenda",
+        "2016_sass/team",
+        "2016_sass/event",
+        "2016_sass/about",
+        "2016_sass/form"
+;
