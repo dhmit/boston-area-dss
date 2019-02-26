@@ -1,5 +1,74 @@
-- title: Michael Noone
+- title: Sarah Connell
   name: Name-1
+  subtitle: Assistant Director of the Women Writers Project and the NULab for Texts, Maps, and Networks at Northeastern University
+  img: SarahConnell.jpg
+  thumbnail: SarahConnell.jpg
+  alt: Picture of Sarah Connell
+  topic: The Women Writers Project
+  description: The <a href='https://wwp.northeastern.edu/'>Women Writers Project</a> is a long-term research project devoted to early modern women's writing and electronic text encoding. Our goal is to bring texts by pre-Victorian women writers out of the archive and make them accessible to a wide audience of teachers, students, scholars, and the general reader. We support research on women's writing, text encoding, and the role of electronic texts in teaching and scholarship.
+  bio: Sarah Connell is the Assistant Director of the Women Writers Project and the NULab for Texts, Maps, and Networks at Northeastern University. Her research focuses on text encoding and text analysis, medieval and early modern literature and historiography, and pedagogies of digital scholarship. Her current projects include Making Room in History, a text encoding and analysis project on early modern narratives of national identity; an analysis of the works of Margaret Cavendish through TEI encoding; and an NEH-funded seminar series on research and teaching with word embedding models.
+
+- title: Greg Crane
+  name: Name-2
+  subtitle: Professor of Classics & Editor-in-Chief of the Perseus Project (Tufts University)
+  img: GregCrane.jpg
+  thumbnail: GregCrane.jpg
+  alt:
+  topic:
+  description:
+  bio: "<p>Gregory Crane's interests are twofold. On the one hand, he has published on a wide range of ancient Greek authors (including articles on Greek drama and Hellenistic poetry and a book on the Odyssey). Much of his traditional scholarly work has been devoted to Thucydides; his book The Blinded Eye: Thucydides and the New Written Word appeared from Rowman and Littlefield in 1996; his second Thucydides book (The Ancient Simplicity: Thucydides and the Limits of Political Realism) was published by the University of California Press in 1998.</p>
+  <p>At the same time, he has a long-standing interest in the relationship between the humanities and rapidly developing digital technology. He began this side of his work as a graduate student at Harvard when the Classics Department purchased its first TLG authors on magnetic tape in the summer of 1982. He developed a Unix-based full text retrieval system for the TLG that was widely used in North America and Europe in the middle 1980s. He also helped establish a typesetting consortium to facilitate scholarly publishing. Since 1985 he has been engaged in planning and development of the Perseus Project, which he directs as the Editor-in-Chief. Besides supervising the Perseus Project as a whole, he has been primarily responsible for the development of the morphological analysis system which provides many of the links within the Perseus database.</p>
+  <p>From 1998 through 2006 he directed a grant from the Digital Library Initiative to study general problems of digital libraries in the humanities. Under the DLI-2 program, he worked on a range of topics, including such topics as London, the history of Mechanics, and the American Civil War. Each of these collections provided new insights into the implications of such new electronic tools on learning. In 2006, he produced a named entity identification system, published a 55 million word collection, and authored several publications describing the system.</p>
+  <p>With the rise of the Google Books project in 2004, he began to focus upon the problems and opportunities that arise when whole libraries rather than curated collections become available on-line. The broad range of projects that he suppported with support from the DLI-2 program, the Institute for Museum and Library Services, and the Mellon Foundation provided a broad foundation within which to frame his current generation of research projects on Classical Studies at Perseus. Crane overees the overall research program at Perseus.</p>
+  <p>Crane is especially interested in helping the emerging Cyberinfrastructure serve the needs of the humanities in general and classical studies in particular.</p>"
+
+- title: Stephanie Frampton
+  name: Name-3
+  subtitle: Associate Professor (MIT)
+  img: StephanieFrampton.jpeg
+  thumbnail: StephanieFrampton.jpeg
+  alt:
+  topic:
+  description:
+  bio: "<p>Stephanie Frampton is a classicist, comparatist, and historian of media in antiquity. Her work explores the intersections of material and literary culture in the ancient Mediterranean and the classical tradition, focusing on the histories of books, reading, writing, and scholarly practice. She has published on a wide range of topics in this area, from graffiti in the city of Herculaneum to the history of studium from antiquity to the Renaissance, and on Roman authors including Cicero and Ovid.</p>
+  <p>Prof. Frampton joined the MIT faculty in Fall 2012, having taught previously in the Classics at the College of the Holy Cross and at Harvard University. She has received numerous awards, including fellowships from the American Academy in Rome, the Andrew Mellon Foundation and the Rare Books School of the University of Virginia, the Loeb Classical Library Foundation, and the University of Cincinnati. She is always interested in talking with students about their interests in literature, history, languages, and writing, and welcomes them to stop by her office anytime.</p>
+  <p>She is currently the president of the Mellon Society of Fellows in Critical Bibliography at the Rare Book School, University of Virginia.</p>"
+
+- title: Paul Lehrman
+  name: Name-4
+  subtitle: Senior Lecturer of Music and Multimedia Arts, Director of Music Engineering (Tufts University)
+  img: PaulLehrman.jpg
+  thumbnail: PaulLehrman.jpg
+  alt: Picture of Paul Lehrman
+  topic: The Women Writers Project
+  description: Electronic Musical Instrument Design teaches students how to make electronic performance systems and gesture controllers for music. Students from a variety of disciplines including electrical and mechanical engineering, computer science, physics, human factors engineering, sculpture, and music work on projects in teams. From the instructor and each other they learn analog and digital sensor technology, computer-assisted design and fabrication, coding using Max/MSP, MIDI, synthesis, and digital signal processing and mixing. Examples of student work can be seen at <a href='http://tuftsemid.com'>http://tuftsemid.com</a>.
+  bio: Paul D. Lehrman is a musician, author, technologist, and educator. He studied electronic music at Columbia University and holds degrees in music and technology from Purchase Conservatory, Lesley University, and Tufts. His scores for documentary films have been seen on PBS, A&E, and Canal+. He produced the world premiere performances of George Antheil’s 1924 Ballet mécanique for 16 player pianos and percussion orchestra, which has since been perfomed over 30 times around the world, and most recently did the same for Henry Cowell’s 1930 Concerto for Rhythmicon and Orchestra. He has written six books and over 500 articles on music technology. He is currently director of the Music Engineering program at Tufts, where he teaches courses in electronic and computer music, conducts an electronic ensemble, and plays with “Songs of Resistance”, an all-faculty band performing political and protest music from the 1950s to the current day.
+
+- title: Cathie Jo Martin
+  name: Name-5
+  subtitle: Professor of Political Science; Director, Center for the Study of Europe (Boston University)
+  img: CathieJoMartin.jpg
+  thumbnail: CathieJoMartin.jpg
+  alt:
+  topic:
+  desription:
+  bio: "Cathie Jo Martin is professor of Political Science at Boston University and Director of the BU Center for the Study of Europe in the Pardee School. She is also president of the Comparative Politics Section of the American Political Science Association, former chair of the Council for European Studies, and co-chair (with Jane Mansbridge) of the 2013 APSA Presidential Task Force on Political Negotiation. Her current work explores the cultural origins of diverse education systems (using computational analyses of British and Danish literature) and the impacts of these systems on the social inclusion and low-skill youth. Her most recent book, The Political Construction of Business Interests: Coordination, Growth and Equality (co-authored with Duane Swank, Cambridge University Press 2012) won the David Greenstone book prize from the Politics and History section of APSA. The book investigates the origins of coordinated capitalism and the circumstances under which employers are persuaded to endorse social policies promoting economic productivity and social solidarity. She is also author of Stuck in Neutral: Business and the Politics of Human Capital Investment Policy (Princeton University Press, 2000), Shifting the Burden: the Struggle over Growth and Corporate Taxation (University of Chicago Press, 1991) and the co-edited (with Jane Mansbridge) Political Negotiation (Brookings 2015). She has written articles appearing in journals such as the American Political Science Review, World Politics, the British Journal of Political Science, Comparative Political Studies, Governance, Socio-Economic Review and Politics and Society among others. She has held fellowships at the Radcliffe Institute for Advanced Study, the Russell Sage Foundation, and the University of Copenhagen; in addition, she has received funding from the Robert Wood Johnson Foundation, the German Marshall Fund, the Danish Social Science Research Council, the BU Hariri Institute, the BU Humanities Foundation and the National Science Foundation. She holds positions of Visiting Professor of the Copenhagen Business School and Research Associate at the Danish Center for Welfare Studies, University of Southern Denmark. Professor Martin received her Ph.D. from the Massachusetts Institute of Technology in 1987."
+  description:
+
+- title: Shady Nasser
+  name: Name-6
+  subtitle: Assistant Professor of Near Eastern Languages and Civilizations (Harvard University)
+  img: ShadyNasser.jpg
+  thumbnail: ShadyNasser.jpg
+  alt:
+  topic: Electronic Versions of the Qur’ān (EVQ)
+  description:
+  bio: "<p>Professor Nasser is Assistant Professor of Near Eastern Languages and Civilizations, teaching Arabic literature as well as Islamic Civilizations courses. His previous posting was as a University Lecturer in Classical Arabic studies at the University of Cambridge (UK), in the Faculty of Asian and Middle Eastern Studies.</p>
+  <p>Nasser studied Chemistry (1996-1999) at the American University of Beirut after which he majored in Arabic Language and Literature. In 2003 he started his PhD at Harvard University in Arabic and Islamic studies under the supervision of Wolfhart Heinrichs, completing his PhD in 2011. In 2008, he worked at Yale University as a lector of Arabic and from 2009-2012 he was a senior lector of Arabic and the coordinator of the modern Arabic program at Yale University. From 2013-2016, Nasser was appointed University Lecturer in Classical Arabic studies at the University of Cambridge (UK).</p>
+  <p>Nasser's research interest is Qur’anic studies with particular focus on the history of the transmission of the text, its language, and its reception among the early Muslim community. Pre-Islamic and early Islamic poetry, Akhbār Literature, and Ḥadith transmission are also among the areas of interests Nasser researches independently or in connection to the Qur’an.</p>"
+
+- title: Michael Noone
+  name: Name-7
   subtitle: Professor of Music and Chair, Music Department (Boston College)
   img: MichaelNoone.png
   thumbnail: MichaelNoone.png
@@ -8,8 +77,18 @@
   topic: The Encoded 14th-century Franciscan Antiphoner
   description: "<p>Among the rare musical treasures housed at Boston College’s John J. Burns Library, is an early 14th-century Franciscan Antiphoner (<a href='http://burnsantiphoner.bc.edu'>http://burnsantiphoner.bc.edu</a>). Bound between leather-covered boards, the volume now comprises 119 parchment folios containing Gregorian chants for the entire annual calendar of saints’ days (the sanctorale). While the precise date and provenance of the manuscript remain a mystery, there is reason to believe that it was copied by a German scribe, probably for use in Germany. Rather than a luxury manuscript distinguished by superb calligraphy and expert illumination, this volume was copied for daily use by monks chanting the divine office. For its interest to both specialists and the wider public, it was chosen as one of the few BC library holdings to be represented in the 2016 exhibition Beyond Words: Illuminated Manuscripts in Boston Collections (<a href='http://beyondwords2016.org'>http://beyondwords2016.org</a>).</p><p>The Antiphoner contains 846 musical works and although the BC library had already made the entire volume available online as an open access digital object, none of those 846 musical works was indexed or searchable. Our project sought to provide deeper access and interactive functionality for both students and researchers accessing the object online, as well as for the public attending the 2016 Beyond Words exhibition. First, to maximize user experience and to make the content analyzable, the project incorporated encoded metadata providing a means of searching each of the melodic incipits. This means that the first melodically meaningful phrase of each chant, identifying it uniquely, was encoded so that the presence of any known chant in the manuscript could easily be established through searchable incipits. The digitized object and encoded content was thus made available via a responsive website. Second, the project sought to provide museum-goers with an opportunity to experience and interact with the Antiphoner digitally via a multi-touch table. In addition, we sought to enhance the images of the source with videos and audio clips of specially commissioned recordings of the music preserved in the Antiphoner. Through the addition of explanatory texts together with audio and video recordings of performances of some of the Antiphoner’s melodies, we sought to bring the audience into closer and richer contact with the artifact than would have been possible with the physical object alone.</p><p>Additionally, access to the raw data files of encoded content offers additional analytical tools for scholars and students. While the Beyond Words exhibition presented us with the opportunity to offer a rich multi-media experience to the museum-goer, we set our sights firmly on providing a long-term project of enduring benefit to both students and researchers. In particular, through close co-operation with the international CANTUS database (<a href='http://cantusdatabase.org'>http://cantusdatabase.org</a>), we contributed to the most important scholarly database of medieval music.</p>"
 
+- title: Jason Prentice
+  name: Name-8
+  subtitle: Lecturer, Writing Program (Boston University)
+  img: JasonPrentice.jpg
+  thumbnail: JasonPrentice.jpg
+  alt:
+  topic:
+  description:
+  bio:
+
 - title: Jeffrey Ravel
-  name: Name-2
+  name: Name-9
   subtitle: Professor of History and Head, History Faculty (MIT)
   img: JeffreyRavel.jpg
   thumbnail: JeffreyRavel.jpg
@@ -24,22 +103,23 @@
 
   <p>Teaching interests include Old Regime and Revolutionary France, European cultural and intellectual history, the history of the book and comparative media studies, and World history.</p>"
 
-- title: Sarah Connell
-  name: Name-3
-  subtitle: Assistant Director of the Women Writers Project and the NULab for Texts, Maps, and Networks at Northeastern University
-  img: SarahConnell.jpg
-  thumbnail: SarahConnell.jpg
-  alt: Picture of Sarah Connell
-  topic: The Women Writers Project
-  description: The <a href='https://wwp.northeastern.edu/'>Women Writers Project</a> is a long-term research project devoted to early modern women's writing and electronic text encoding. Our goal is to bring texts by pre-Victorian women writers out of the archive and make them accessible to a wide audience of teachers, students, scholars, and the general reader. We support research on women's writing, text encoding, and the role of electronic texts in teaching and scholarship.
-  bio: Sarah Connell is the Assistant Director of the Women Writers Project and the NULab for Texts, Maps, and Networks at Northeastern University. Her research focuses on text encoding and text analysis, medieval and early modern literature and historiography, and pedagogies of digital scholarship. Her current projects include Making Room in History, a text encoding and analysis project on early modern narratives of national identity; an analysis of the works of Margaret Cavendish through TEI encoding; and an NEH-funded seminar series on research and teaching with word embedding models.
+- title: Mark Szarko
+  name: Name-10
+  subtitle: Literature, Global Studies and Languages, Philosophy, and Theater Arts Librarian (MIT)
+  img: MarkSzarko.jpg
+  thumbnail: MarkSzarko.jpg
+  alt:
+  topic:
+  description:
+  bio: "<p>Mark began working for the MIT Libraries in the summer of 2006.  Before that, he worked for the University of Washington Libraries.  He has also taught composition and literature courses at the University of Illinois at Urbana-Champaign and literature courses at the University of Pannonia in Hungary (formerly Veszprém University).</p>"
 
-- title: Paul Lehrman
-  name: Name-4
-  subtitle: Senior Lecturer of Music and Multimedia Arts, Director of Music Engineering
-  img: PaulLehrman.jpg
-  thumbnail: PaulLehrman.jpg
-  alt: Picture of Paul Lehrman
-  topic: The Women Writers Project
-  description: Electronic Musical Instrument Design teaches students how to make electronic performance systems and gesture controllers for music. Students from a variety of disciplines including electrical and mechanical engineering, computer science, physics, human factors engineering, sculpture, and music work on projects in teams. From the instructor and each other they learn analog and digital sensor technology, computer-assisted design and fabrication, coding using Max/MSP, MIDI, synthesis, and digital signal processing and mixing. Examples of student work can be seen at <a href='http://tuftsemid.com'>http://tuftsemid.com</a>.
-  bio: Paul D. Lehrman is a musician, author, technologist, and educator. He studied electronic music at Columbia University and holds degrees in music and technology from Purchase Conservatory, Lesley University, and Tufts. His scores for documentary films have been seen on PBS, A&E, and Canal+. He produced the world premiere performances of George Antheil’s 1924 Ballet mécanique for 16 player pianos and percussion orchestra, which has since been perfomed over 30 times around the world, and most recently did the same for Henry Cowell’s 1930 Concerto for Rhythmicon and Orchestra. He has written six books and over 500 articles on music technology. He is currently director of the Music Engineering program at Tufts, where he teaches courses in electronic and computer music, conducts an electronic ensemble, and plays with “Songs of Resistance”, an all-faculty band performing political and protest music from the 1950s to the current day.
+- title: Maria Tatar
+  name: Name-11
+  subtitle: Assistant Professor of Near Eastern Languages and Civilizations (Harvard University)
+  img: MariaTatar.jpg
+  thumbnail: MariaTatar.jpg
+  alt:
+  topic: Archive of African American Folklore
+  description:
+  bio: "<p>Professor Tatar received her Ph.D. from Princeton University. Her teaching and research interests include Weimar Germany, German Romanticism, folklore, children's literature, and cultural studies. She serves on degree committees in Folklore and Mythology as well as in History and Literature.</p>
+  <p>The author of books on the Brothers Grimm and on fairy tales (The Hard Facts of the Grimms' Fairy Tales, Off with Their Heads, Secrets beyond the Door), she has also published Spellbound: Studies on Mesmerism and Literature and Lustmord, which explores sexual violence in the literature, film, and art of the Weimar period in Germany. She is the editor of Classic Fairy Tales, as well as of The Annotated Brothers Grimm and The Annotated Hans Christian Andersen. Enchanted Hunters: The Power of Stories in Childhood was published in 2009 with W.W. Norton.  She is a Senior Fellow at Harvard's Society of Fellows.</p>"
