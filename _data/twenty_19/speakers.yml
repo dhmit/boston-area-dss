@@ -1,26 +1,45 @@
-- title: Name
+- title: Michael Noone
   name: Name-1
-  subtitle: Position
-  img: TBD.jpg
-  thumbnail: TBD.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description: More Info
+  subtitle: Professor of Music and Chair, Music Department (Boston College)
+  img: MichaelNoone.png
+  thumbnail: MichaelNoone.png
+  alt: Picture of Michael Noone
+  bio: Michael Noone has published widely on Spanish Golden Age polyphony with a focus on El Escorial and Toledo Cathedral. He has recorded many award-winning CDs of Spanish Renaissance polyphony and has conducted concerts on four continents. In 2006 he was awarded the Premio Real Fundación Toledo by His Majesty Juan Carlos I and in the same year he was admitted to the Real Academia de Bellas Artes y Ciencias Históricas de Toledo. He is Professor and Chair of Music at Boston College.
+  topic: The Encoded 14th-century Franciscan Antiphoner
+  description: "<p>Among the rare musical treasures housed at Boston College’s John J. Burns Library, is an early 14th-century Franciscan Antiphoner (<a href='http://burnsantiphoner.bc.edu'>http://burnsantiphoner.bc.edu</a>). Bound between leather-covered boards, the volume now comprises 119 parchment folios containing Gregorian chants for the entire annual calendar of saints’ days (the sanctorale). While the precise date and provenance of the manuscript remain a mystery, there is reason to believe that it was copied by a German scribe, probably for use in Germany. Rather than a luxury manuscript distinguished by superb calligraphy and expert illumination, this volume was copied for daily use by monks chanting the divine office. For its interest to both specialists and the wider public, it was chosen as one of the few BC library holdings to be represented in the 2016 exhibition Beyond Words: Illuminated Manuscripts in Boston Collections (<a href='http://beyondwords2016.org'>http://beyondwords2016.org</a>).</p><p>The Antiphoner contains 846 musical works and although the BC library had already made the entire volume available online as an open access digital object, none of those 846 musical works was indexed or searchable. Our project sought to provide deeper access and interactive functionality for both students and researchers accessing the object online, as well as for the public attending the 2016 Beyond Words exhibition. First, to maximize user experience and to make the content analyzable, the project incorporated encoded metadata providing a means of searching each of the melodic incipits. This means that the first melodically meaningful phrase of each chant, identifying it uniquely, was encoded so that the presence of any known chant in the manuscript could easily be established through searchable incipits. The digitized object and encoded content was thus made available via a responsive website. Second, the project sought to provide museum-goers with an opportunity to experience and interact with the Antiphoner digitally via a multi-touch table. In addition, we sought to enhance the images of the source with videos and audio clips of specially commissioned recordings of the music preserved in the Antiphoner. Through the addition of explanatory texts together with audio and video recordings of performances of some of the Antiphoner’s melodies, we sought to bring the audience into closer and richer contact with the artifact than would have been possible with the physical object alone.</p><p>Additionally, access to the raw data files of encoded content offers additional analytical tools for scholars and students. While the Beyond Words exhibition presented us with the opportunity to offer a rich multi-media experience to the museum-goer, we set our sights firmly on providing a long-term project of enduring benefit to both students and researchers. In particular, through close co-operation with the international CANTUS database (<a href='http://cantusdatabase.org'>http://cantusdatabase.org</a>), we contributed to the most important scholarly database of medieval music.</p>"
 
-- title: Name
+- title: Jeffrey Ravel
   name: Name-2
-  subtitle: Position
-  img: TBD.jpg
-  thumbnail: TBD.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description: More Info
+  subtitle: Professor of History and Head, History Faculty (MIT)
+  img: JeffreyRavel.jpg
+  thumbnail: JeffreyRavel.jpg
+  alt: Picture of Jeffrey Ravel
+  topic: The Visualizing Maritime History Project
+  description: The <a href="http://forbesandclark.archimedes.digital/">Visualizing Maritime History Project (VHMP)</a> offers users access to over 3800 objects in two collections of the MIT Museum. These two collections, the Captain Arthur H. Clark Collection and the Allan Forbes Whaling Collection, were donated to MIT in the first half of the twentieth century. A substantial grant from the Maritime Heritage Grant Program of the United States National Park Service, and additional support from the MIT Museum and the MIT School of Humanities, Arts, and Social Sciences, has allowed us to catalogue and photograph these collections for the first time.
+  bio: "<p>Jeffrey S. Ravel studies the history of French and European political culture from the mid-seventeenth through the mid-nineteenth centuries. He is the author of <a href='https://www.amazon.com/The-Would-Be-Commoner-Deception-Seventeenth-Century/dp/B005MZD66S/ref=sr_1_1?ie=UTF8&qid=1409022248&sr=8-1&keywords=would-be+commoner'>The Would-Be Commoner: A Tale of Deception, Murder, and Justice in Seventeenth Century France (Houghton Mifflin, 2008)</a>; and <a href='http://www.cornellpress.cornell.edu/book/?GCOI=80140100237880'>The Contested Parterre: Public Theater and French Political Culture, 1680-1791 (Cornell University Press, 1999)</a>.  He is currently working on a history of French playing cards and political regimes from the seventeenth to the nineteenth centuries.</p>
 
-- title: Name
+  <p>Currently he co-directs the <a href='http://www.cfregisters.org/'>Comédie-Française Registers Project</a>, a collaborative venture between the Bibiliothèque-musée of the Comédie Française theater troupe, MIT, Harvard University, the University of Victoria, the Sorbonne, the Université de Paris-Nanterre and the Université de Rouen . His newest Digital Humanities initiative is the <a href='http://forbesandclark.archimedes.digital/'>Visualizing Maritime History Project</a>.</p>
+
+  <p>In 2018-2019 he will be the First Vice President of the <a href='https://asecs.press.jhu.edu/'>American Society for Eighteenth-Century Studies</a> in 2019-2020 he will serve as the Society’s President.  Ravel is currently a member of the Advisory Board of the MIT Museum, and chairs the Museum’s Collections Committee.  He is a Co-Director of MIT’s <a href='http://beaverpress.mit.edu/'>Beaver Press</a>, located in Barker Library.  Since April 2015, he has been the Faculty Lead for the <a href='https://nepal.mit.edu/'>MIT-Nepal Initiative</a>.</p>
+
+  <p>Teaching interests include Old Regime and Revolutionary France, European cultural and intellectual history, the history of the book and comparative media studies, and World history.</p>"
+
+- title: Sarah Connell
   name: Name-3
-  subtitle: Position
-  img: TBD.jpg
-  thumbnail: TBD.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description: More Info
+  subtitle: Assistant Director of the Women Writers Project and the NULab for Texts, Maps, and Networks at Northeastern University
+  img: SarahConnell.jpg
+  thumbnail: SarahConnell.jpg
+  alt: Picture of Sarah Connell
+  topic: The Women Writers Project
+  description: The <a href='https://wwp.northeastern.edu/'>Women Writers Project</a> is a long-term research project devoted to early modern women's writing and electronic text encoding. Our goal is to bring texts by pre-Victorian women writers out of the archive and make them accessible to a wide audience of teachers, students, scholars, and the general reader. We support research on women's writing, text encoding, and the role of electronic texts in teaching and scholarship.
+  bio: Sarah Connell is the Assistant Director of the Women Writers Project and the NULab for Texts, Maps, and Networks at Northeastern University. Her research focuses on text encoding and text analysis, medieval and early modern literature and historiography, and pedagogies of digital scholarship. Her current projects include Making Room in History, a text encoding and analysis project on early modern narratives of national identity; an analysis of the works of Margaret Cavendish through TEI encoding; and an NEH-funded seminar series on research and teaching with word embedding models.
+
+- title: Paul Lehrman
+  name: Name-4
+  subtitle: Senior Lecturer of Music and Multimedia Arts, Director of Music Engineering
+  img: PaulLehrman.jpg
+  thumbnail: PaulLehrman.jpg
+  alt: Picture of Paul Lehrman
+  topic: The Women Writers Project
+  description: Electronic Musical Instrument Design teaches students how to make electronic performance systems and gesture controllers for music. Students from a variety of disciplines including electrical and mechanical engineering, computer science, physics, human factors engineering, sculpture, and music work on projects in teams. From the instructor and each other they learn analog and digital sensor technology, computer-assisted design and fabrication, coding using Max/MSP, MIDI, synthesis, and digital signal processing and mixing. Examples of student work can be seen at <a href='http://tuftsemid.com'>http://tuftsemid.com</a>.
+  bio: Paul D. Lehrman is a musician, author, technologist, and educator. He studied electronic music at Columbia University and holds degrees in music and technology from Purchase Conservatory, Lesley University, and Tufts. His scores for documentary films have been seen on PBS, A&E, and Canal+. He produced the world premiere performances of George Antheil’s 1924 Ballet mécanique for 16 player pianos and percussion orchestra, which has since been perfomed over 30 times around the world, and most recently did the same for Henry Cowell’s 1930 Concerto for Rhythmicon and Orchestra. He has written six books and over 500 articles on music technology. He is currently director of the Music Engineering program at Tufts, where he teaches courses in electronic and computer music, conducts an electronic ensemble, and plays with “Songs of Resistance”, an all-faculty band performing political and protest music from the 1950s to the current day.
