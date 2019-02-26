@@ -1,5 +1,5 @@
 - title: Sarah Connell
-  name: Name-1
+  name: Sarah-Connell
   subtitle: Assistant Director of the Women Writers Project and the NULab for Texts, Maps, and Networks at Northeastern University
   img: SarahConnell.jpg
   thumbnail: SarahConnell.jpg
@@ -9,7 +9,7 @@
   bio: Sarah Connell is the Assistant Director of the Women Writers Project and the NULab for Texts, Maps, and Networks at Northeastern University. Her research focuses on text encoding and text analysis, medieval and early modern literature and historiography, and pedagogies of digital scholarship. Her current projects include Making Room in History, a text encoding and analysis project on early modern narratives of national identity; an analysis of the works of Margaret Cavendish through TEI encoding; and an NEH-funded seminar series on research and teaching with word embedding models.
 
 - title: Greg Crane
-  name: Name-2
+  name: Greg-Crane
   subtitle: Professor of Classics & Editor-in-Chief of the Perseus Project (Tufts University)
   img: GregCrane.jpg
   thumbnail: GregCrane.jpg
@@ -23,7 +23,7 @@
   <p>Crane is especially interested in helping the emerging Cyberinfrastructure serve the needs of the humanities in general and classical studies in particular.</p>"
 
 - title: Stephanie Frampton
-  name: Name-3
+  name: Stephanie-Frampton
   subtitle: Associate Professor (MIT)
   img: StephanieFrampton.jpeg
   thumbnail: StephanieFrampton.jpeg
@@ -35,7 +35,7 @@
   <p>She is currently the president of the Mellon Society of Fellows in Critical Bibliography at the Rare Book School, University of Virginia.</p>"
 
 - title: Paul Lehrman
-  name: Name-4
+  name: Paul-Lehrman
   subtitle: Senior Lecturer of Music and Multimedia Arts, Director of Music Engineering (Tufts University)
   img: PaulLehrman.jpg
   thumbnail: PaulLehrman.jpg
@@ -45,7 +45,7 @@
   bio: Paul D. Lehrman is a musician, author, technologist, and educator. He studied electronic music at Columbia University and holds degrees in music and technology from Purchase Conservatory, Lesley University, and Tufts. His scores for documentary films have been seen on PBS, A&E, and Canal+. He produced the world premiere performances of George Antheil’s 1924 Ballet mécanique for 16 player pianos and percussion orchestra, which has since been perfomed over 30 times around the world, and most recently did the same for Henry Cowell’s 1930 Concerto for Rhythmicon and Orchestra. He has written six books and over 500 articles on music technology. He is currently director of the Music Engineering program at Tufts, where he teaches courses in electronic and computer music, conducts an electronic ensemble, and plays with “Songs of Resistance”, an all-faculty band performing political and protest music from the 1950s to the current day.
 
 - title: Cathie Jo Martin
-  name: Name-5
+  name: Cathie-Jo-Martin
   subtitle: Professor of Political Science; Director, Center for the Study of Europe (Boston University)
   img: CathieJoMartin.jpg
   thumbnail: CathieJoMartin.jpg
@@ -56,7 +56,7 @@
   description:
 
 - title: Shady Nasser
-  name: Name-6
+  name: Shady-Nasser
   subtitle: Assistant Professor of Near Eastern Languages and Civilizations (Harvard University)
   img: ShadyNasser.jpg
   thumbnail: ShadyNasser.jpg
@@ -68,7 +68,7 @@
   <p>Nasser's research interest is Qur’anic studies with particular focus on the history of the transmission of the text, its language, and its reception among the early Muslim community. Pre-Islamic and early Islamic poetry, Akhbār Literature, and Ḥadith transmission are also among the areas of interests Nasser researches independently or in connection to the Qur’an.</p>"
 
 - title: Michael Noone
-  name: Name-7
+  name: Michael-Noone
   subtitle: Professor of Music and Chair, Music Department (Boston College)
   img: MichaelNoone.png
   thumbnail: MichaelNoone.png
@@ -78,7 +78,7 @@
   description: "<p>Among the rare musical treasures housed at Boston College’s John J. Burns Library, is an early 14th-century Franciscan Antiphoner (<a href='http://burnsantiphoner.bc.edu'>http://burnsantiphoner.bc.edu</a>). Bound between leather-covered boards, the volume now comprises 119 parchment folios containing Gregorian chants for the entire annual calendar of saints’ days (the sanctorale). While the precise date and provenance of the manuscript remain a mystery, there is reason to believe that it was copied by a German scribe, probably for use in Germany. Rather than a luxury manuscript distinguished by superb calligraphy and expert illumination, this volume was copied for daily use by monks chanting the divine office. For its interest to both specialists and the wider public, it was chosen as one of the few BC library holdings to be represented in the 2016 exhibition Beyond Words: Illuminated Manuscripts in Boston Collections (<a href='http://beyondwords2016.org'>http://beyondwords2016.org</a>).</p><p>The Antiphoner contains 846 musical works and although the BC library had already made the entire volume available online as an open access digital object, none of those 846 musical works was indexed or searchable. Our project sought to provide deeper access and interactive functionality for both students and researchers accessing the object online, as well as for the public attending the 2016 Beyond Words exhibition. First, to maximize user experience and to make the content analyzable, the project incorporated encoded metadata providing a means of searching each of the melodic incipits. This means that the first melodically meaningful phrase of each chant, identifying it uniquely, was encoded so that the presence of any known chant in the manuscript could easily be established through searchable incipits. The digitized object and encoded content was thus made available via a responsive website. Second, the project sought to provide museum-goers with an opportunity to experience and interact with the Antiphoner digitally via a multi-touch table. In addition, we sought to enhance the images of the source with videos and audio clips of specially commissioned recordings of the music preserved in the Antiphoner. Through the addition of explanatory texts together with audio and video recordings of performances of some of the Antiphoner’s melodies, we sought to bring the audience into closer and richer contact with the artifact than would have been possible with the physical object alone.</p><p>Additionally, access to the raw data files of encoded content offers additional analytical tools for scholars and students. While the Beyond Words exhibition presented us with the opportunity to offer a rich multi-media experience to the museum-goer, we set our sights firmly on providing a long-term project of enduring benefit to both students and researchers. In particular, through close co-operation with the international CANTUS database (<a href='http://cantusdatabase.org'>http://cantusdatabase.org</a>), we contributed to the most important scholarly database of medieval music.</p>"
 
 - title: Jason Prentice
-  name: Name-8
+  name: Jason-Prenctice
   subtitle: Lecturer, Writing Program (Boston University)
   img: JasonPrentice.jpg
   thumbnail: JasonPrentice.jpg
@@ -88,7 +88,7 @@
   bio:
 
 - title: Jeffrey Ravel
-  name: Name-9
+  name: Jeffrey-Ravel
   subtitle: Professor of History and Head, History Faculty (MIT)
   img: JeffreyRavel.jpg
   thumbnail: JeffreyRavel.jpg
@@ -104,7 +104,7 @@
   <p>Teaching interests include Old Regime and Revolutionary France, European cultural and intellectual history, the history of the book and comparative media studies, and World history.</p>"
 
 - title: Mark Szarko
-  name: Name-10
+  name: Mark-Szarko
   subtitle: Literature, Global Studies and Languages, Philosophy, and Theater Arts Librarian (MIT)
   img: MarkSzarko.jpg
   thumbnail: MarkSzarko.jpg
@@ -114,7 +114,7 @@
   bio: "<p>Mark began working for the MIT Libraries in the summer of 2006.  Before that, he worked for the University of Washington Libraries.  He has also taught composition and literature courses at the University of Illinois at Urbana-Champaign and literature courses at the University of Pannonia in Hungary (formerly Veszprém University).</p>"
 
 - title: Maria Tatar
-  name: Name-11
+  name: Maria-Tatar
   subtitle: Assistant Professor of Near Eastern Languages and Civilizations (Harvard University)
   img: MariaTatar.jpg
   thumbnail: MariaTatar.jpg
