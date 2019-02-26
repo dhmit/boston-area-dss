@@ -2,25 +2,25 @@
   img: icon-about.jpeg
   name: About
   info: Background information on the symposium
-  link: {{ site.baserul }}/about
+  link: /about
 
 - inverted: timeline-inverted
   img: icon-agenda.jpeg
   name: Agenda
   info: Check out the agenda
-  link: {{ site.baserul }}/agenda
+  link: /agenda
 
 - inverted:
   img: icon-team.jpeg
   name: Organizing Team
   info: Find out the organizers
-  link: {{ site.baserul }}/team
+  link: /team
 
 - inverted: timeline-inverted
   img: icon-venue.jpeg
   name: Venue
   info: Where to go, how to get there
-  link: {{ site.baserul }}/venue
+  link: /venue
 
 # - inverted:
 #   img: icon-faq.jpeg
