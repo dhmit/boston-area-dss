@@ -1,26 +1,80 @@
-- title: Name
-  name: Name-1
-  subtitle: Position
-  img: TBD.jpg
-  thumbnail: TBD.jpg
-  alt: Picture of TBD
+- title: Cole Crawford
+  name: cole-crawford
+  subtitle: Humanities Research Computing Specialist (Harvard)
+  img: ColeCrawford.jpg
+  thumbnail: ColeCrawford.jpg
+  alt: Picture of Cole Crawford
   topic: Topic
   description: More Info
 
-- title: Name
-  name: Name-2
-  subtitle: Position
-  img: TBD.jpg
-  thumbnail: TBD.jpg
-  alt: Picture of TBD
+- title: Michael Cuthbert
+  name: michael-cuthbert
+  subtitle: Faculty Director, Digital Humanities (MIT)
+  img: MichaelCuthbert.jpg
+  thumbnail: MichaelCuthbert.jpg
+  alt: Picture of Michael Cuthbert
   topic: Topic
   description: More Info
 
-- title: Name
-  name: Name-3
-  subtitle: Position
+- title: Jeffrey P. Emanuel
+  name: jeffrey-p-emanuel
+  subtitle: Associate Director of Academic Technology; CHS Fellow in Aegean Archaeology & Prehistory (Harvard University)
+  img: JeffEmanuel.jpg
+  thumbnail: JeffEmanuel.jpg
+  alt: Picture of Jeffrey P. Emanuel
+  topic: Topic
+  description: More Info
+
+- title: Anna Kijas
+  name: anna-kijas
+  subtitle: Senior Digital Scholarship Librarian (Boston College)
   img: TBD.jpg
   thumbnail: TBD.jpg
-  alt: Picture of TBD
+  alt: Picture of Anna Kijas
+  topic: Topic
+  description: More Info
+
+- title: Amanda Rust
+  name: amanda-rust
+  subtitle: Assistant Director, Digital Scholarship Group (Northeastern University)
+  img: TBD.jpg
+  thumbnail: TBD.jpg
+  alt: Picture of Amanda Rust
+  topic: Topic
+  description: More Info
+
+- title: Marty Schreiner
+  name: marty-schreiner
+  subtitle: Director of Maps, Media, Data and Government Information; Librarian of Lamont Library (Harvard University)
+  img: MartySchreiner.jpg
+  thumbnail: MartySchreiner.jpg
+  alt: Picture of Marty Schreiner
+  topic: Topic
+  description: More Info
+
+- title: Rashmi Singhal
+  name: rashmi-singhal
+  subtitle: Director of Arts & Humanities Research Computing (Harvard University)
+  img: singhal.jpg
+  thumbnail: singhal.jpg
+  alt: Picture of Rashmi Singhal
+  topic: Topic
+  description: More Info
+
+- title: Annie Swafford
+  name: annie-swafford
+  subtitle: Digital Humanities Specialist (Tufts University)
+  img: TBD.jpg
+  thumbnail: TBD.jpg
+  alt: Picture of Annie Swafford
+  topic: Topic
+  description: More Info
+
+- title: Vika Zafrin
+  name: vika-zafrin
+  subtitle: Digital Scholarship Librarian (Boston University)
+  img: TBD.jpg
+  thumbnail: TBD.jpg
+  alt: Picture of Vika Zafrin
   topic: Topic
   description: More Info
