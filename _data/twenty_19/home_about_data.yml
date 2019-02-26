@@ -4,11 +4,11 @@
   info: Background information on the symposium
   link: /about
 
-- inverted: timeline-inverted
-  img: icon-agenda.jpeg
-  name: Agenda
-  info: Check out the agenda
-  link: /agenda
+# - inverted: timeline-inverted
+#   img: icon-agenda.jpeg
+#   name: Agenda
+#   info: Check out the agenda
+#   link: /agenda
 
 - inverted:
   img: icon-team.jpeg
