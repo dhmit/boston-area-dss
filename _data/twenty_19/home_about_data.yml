@@ -1,7 +1,7 @@
-- inverted: 
+- inverted:
   img: icon-about.jpeg
-  name: Theme, Vision, Mission
-  info: Read more about our Theme, Vision, and Mission
+  name: About
+  info: Background information on the symposium
   link: /about
 
 - inverted: timeline-inverted
@@ -10,26 +10,26 @@
   info: Check out the agenda
   link: /agenda
 
-- inverted: 
+- inverted:
   img: icon-team.jpeg
-  name: Team
-  info: Find out the team members
+  name: Organizing Team
+  info: Find out the organizers
   link: /team
 
 - inverted: timeline-inverted
   img: icon-venue.jpeg
   name: Venue
-  info: Learn more about our location
+  info: Where to go, how to get there
   link: /venue
 
-- inverted: 
-  img: icon-faq.jpeg
-  name: FAQs
-  info: Have a Question? Many answers can be found right here in our FAQs
-  link: /faqs
+# - inverted:
+#   img: icon-faq.jpeg
+#   name: FAQs
+#   info: Have a Question? Many answers can be found right here in our FAQs
+#   link: /faqs
 
-- inverted: timeline-inverted
-  img: booklet-icon.png
-  name: Event Booklet
-  info: View or Download our event booklet
-  link: /booklet
+# - inverted: timeline-inverted
+#   img: booklet-icon.png
+#   name: Event Booklet
+#   info: View or Download our event booklet
+#   link: /booklet
