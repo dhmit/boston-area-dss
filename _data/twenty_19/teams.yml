@@ -4,8 +4,8 @@
   img: ColeCrawford.jpg
   thumbnail: ColeCrawford.jpg
   alt: Picture of Cole Crawford
-  topic: Topic
-  description: More Info
+  topic:
+  description: "Cole holds a BS in Computing Science and Informatics and English from Creighton University, and an MA in Literature and Culture from Oregon State University. He uses his background in literary studies, information technology, and software development to help humanities scholars model, assess, and process their data, create digital projects and platforms, and present their research digitally. Cole’s literary research focuses on eighteenth and nineteenth-century British laboring-class writers, and his preferred digital tools include web and digital collection development and data visualization. When not supporting DARTH’s digital projects, Cole enjoys backpacking, climbing, running, and traveling. You can find him @runcolerun."
 
 - title: Michael Cuthbert
   name: michael-cuthbert
@@ -13,8 +13,9 @@
   img: MichaelCuthbert.jpg
   thumbnail: MichaelCuthbert.jpg
   alt: Picture of Michael Cuthbert
-  topic: Topic
-  description: More Info
+  topic:
+  description: "<p>Michael Scott Cuthbert, Associate Professor of Music (AB ’98, AM ’01, Ph. D. ’06, Harvard University) is a musicologist who has worked extensively on music of the fourteenth-century, computational musicology, and minimalism and other music of the past forty years. His publications include seven articles on computational musicology, Ars Nova: French and Italian Music of the Fourteenth Century (with John Nádas), “Generalized Set Analysis and Sub-Saharan African Rhythm,” and “Free Improvisation: John Zorn and the Construction of Jewish Identity through Music.” Cuthbert’s current book project, Ars Mutandi, covers sacred music in Italy during the Black Death and Great Schism.</p>
+  <p>His article, “Tipping the Iceberg: Missing Italian Polyphony from the Age of Schism,” used computer simulations to contradict the unquestioned assumption that most written medieval music has been lost. Cuthbert’s research lab has produced “music21,” an open-source toolkit for computer-aided musical analysis, which has an installed user base in the thousands. Cuthbert's awards include the Rome Prize in Medieval Studies, the Villa I Tatti Fellowship in Italian Renaissance Studies, and a Fellowship in Music at the Radcliffe Institute for Advanced Study at Harvard University. As a composer, his works have been performed by the Bang on a Can All-Stars and other groups. Prior to coming to MIT, Cuthbert was on the faculties of Smith and Mount Holyoke Colleges.</p>"
 
 - title: Jeffrey P. Emanuel
   name: jeffrey-p-emanuel
@@ -22,8 +23,9 @@
   img: JeffEmanuel.jpg
   thumbnail: JeffEmanuel.jpg
   alt: Picture of Jeffrey P. Emanuel
-  topic: Topic
-  description: More Info
+  topic:
+  description: "<p>Jeff Emanuel (<a href='https://harvard.academia.edu/JeffEmanuel'>harvard.academia.edu/JeffEmanuel</a>, Twitter: <a href='https://twitter.com/jeffemanuel'>@jeffemanuel</a>) is Associate Director of Academic Technology at Harvard University. In this role, he leads a highly experienced team that supports the implementation of digital methods and tools in teaching, learning, and reearch throughout the Faculty of Arts and Sciences (FAS) through consultation, creative problem solving, R&D, and technological development. He is a co–founder of the Harvard University Digital Scholarship Support Group, a network that provides training, research support, and infrastructure development for digital scholarship by 'bring[ing] together faculty and staff with technical, pedagogical, and subject-specific expertise in a range of areas across disciplinary and divisional borders to create the technical and personnel resources necessary to support' these pursuits. Heis also co-Chair of the Digital Futures Consortium at Harvard, a 'network of technologists, faculty, researchers, and librarians engaged in the ongoing transformation of scholarship through innovative technology through sharing expertise across the global academic community, facilitating new forms and methods of research, and fostering collaborative projects that bring about field­ changing developments in scholarship'; and a member of the University–wide Teaching and Learning Consortium, a network of pedagogy experts that 'incubates and refines teaching and learning ideas and initiatives that cross school and disciplinary boundaries.'</p>
+  <p>Jeff also holds an appointment as CHS Fellow in Aegean Archaeology and Prehistory at Harvard's Center for Hellenic Studies, conducting archaeological fieldwork and researching naval warfare and the development of maritime technology with a focus on the Aegean and Eastern Mediterranean during the Late Bronze/Early Iron Age transition (see publications and conference & workshop papers). His book Black Ships and Sea Raiders: The Late Bronze–Early Iron Age Context of Odysseus' Second Cretan Lie was published in 2017 by Rowman and Littlefield press. He has also served as a member of the Society for American Archaeology's (SAA) Media Relations Committee and the SAA's Gene Stuart Award committee.</p>"
 
 - title: Anna Kijas
   name: anna-kijas
@@ -31,8 +33,13 @@
   img: AnnaKijas.jpg
   thumbnail: AnnaKijas.jpg
   alt: Picture of Anna Kijas
-  topic: Topic
-  description: More Info
+  topic:
+  description: "<p>Anna E. Kijas is Senior Digital Scholarship Librarian at Boston College Libraries where she develops or manages digital <a href='https://ds.bc.edu/projects/'>projects</a>, serving as project lead, or digital humanities consultant as appropriate. She provides instruction and training for faculty, students, and staff interested in applying computational tools and methods in their research and pedagogy. Her academic training includes master’s degrees in library and information science from Simmons College, music with a concentration in musicology from Tufts University, as well as a bachelor of arts in music literature and performance from Northeastern University.</p>
+  <p>Anna is interested in exploring and pursuing ways in which computational methods and tools can augment scholarly writing and publishing. She has a vested interest in the exploration and application of digital humanities tools and methods in historical (music) research, and in the application of standards, including TEI and MEI, for open access research and publishing. Anna is also interested in supporting sustainable ways of developing digital projects through efforts, such as minimal computing.</p>
+  <p>Among her recent publications are a chapter on the music reception of Venezuelan pianist and composer Teresa Carreño (1853-1917) as a child prodigy during her appearances in the United States, in Musical Prodigies: Interpretations from Psychology, Music Education, Musicology and Ethnomusicology, edited by Gary McPherson (Oxford University Press, 2016) as well as an <a href='http://digitalcommons.uconn.edu/libr_pubs/49'>article</a> about Teresa Carreño’s role in promoting Edvard Grieg’s music, in the MLA journal Notes (2013). She also writes about using digital humanities tools and methods to explore, visualize, and augment scholarship. Anna has contributed entries for the revised editions of Grove Dictionary of American Music and Grove Dictionary of Music and Musicians.</p>
+  <p>Anna’s work has been supported by the Music Library Association with a Walter Gerboth Award and the University of Connecticut with a School of Fine Arts Dean’s Research Grant.</p>
+  <p>She is currently working on a forthcoming book on <em>The Life and Music of Teresa Carreño (1853-1917): A Guide to Research</em>, as well as a <a href='https://documentingcarreno.org/'>digital project</a>, which documents Carreño’s performance career with primary source materials, metadata, and transcriptions, as well as explores her performances and texts through data analysis and visualization tools.</p>
+  <p>You can follow Anna on <a href='https://twitter.com/anna_kijas'>Twitter</a> and <a href='https://www.annakijas.com/www.linkedin.com/pub/anna-kijas/2b/b44/6a1/'>LinkedIn</a>. Additional posts by Anna can be found on <a href='https://ds.bc.edu/tag/anna-kijas/'>BCDigSchol blog.</a><p>"
 
 - title: Amanda Rust
   name: amanda-rust
@@ -40,8 +47,8 @@
   img: AmandaRust.jpg
   thumbnail: AmandaRust.jpg
   alt: Picture of Amanda Rust
-  topic: Topic
-  description: More Info
+  topic:
+  description:
 
 - title: Marty Schreiner
   name: marty-schreiner
@@ -49,8 +56,8 @@
   img: MartySchreiner.jpg
   thumbnail: MartySchreiner.jpg
   alt: Picture of Marty Schreiner
-  topic: Topic
-  description: More Info
+  topic:
+  description: "As Librarian of Lamont Library, Martin is responsible for the coordination of services, their alignment with Faculty of Arts and Sciences’ needs and directions and representing Lamont Library broadly across the University. Martin also directs the program for Maps, Media, Data and Government Information, a unit of specialized expertise, collections and services that provides a bridge between the analog and digital domains in academic research, teaching and learning. With staff based throughout the Lamont and Pusey Library complex, students, faculty, researchers, and staff can find assistance in putting together various combinations of content resources, tools, technologies, advice and training for their projects and curricular work. Martin is co-chair of the Digital Scholarship Support Group and co-chair of the Digital Futures Consortium."
 
 - title: Rashmi Singhal
   name: rashmi-singhal
@@ -58,8 +65,8 @@
   img: singhal.jpg
   thumbnail: singhal.jpg
   alt: Picture of Rashmi Singhal
-  topic: Topic
-  description: More Info
+  topic:
+  description: "Rashmi is a software developer who specializes in digital humanities applications for pedagogical and scholarly application. She previously worked for HarvardX, the Library of Congress, and the Perseus Digital Library. She holds a BS in Computer Science and Archaeology and a MS in Computer Science, both from Tufts University."
 
 - title: Annie Swafford
   name: annie-swafford
@@ -67,8 +74,9 @@
   img: AnnieSwafford.jpg
   thumbnail: AnnieSwafford.jpg
   alt: Picture of Annie Swafford
-  topic: Topic
-  description: More Info
+  topic:
+  description: "<p>I’m Annie Swafford (although I publish under my full name, Joanna Swafford), and I’m the new Digital Humanities Specialist at Tufts University. Before that, I was the Assistant Professor for Interdisciplinary and Digital Teaching and Scholarship at the State University of New York, New Paltz. For more specific details on my educational background, publications, and other information, check out my <a href='https://annieswafford.wordpress.com/cv/'>Curriculum Vitae.</a></p>
+  <p>As a graduate student, I built two digital humanities tools to facilitate music and literary scholarship:  <a href='http://www.songsofthevictorians.com/'>Songs of the Victorians</a>, an archive and analysis of parlor and art song settings of Victorian poems with an interactive framework that highlights each measure of a score in time with its music, and Augmented Notes, a tool that lets users build their own interdisciplinary websites like Songs of the Victorians.  (To find out more about these tools, see <a href='https://annieswafford.wordpress.com/digital-humanities-projects/'>https://annieswafford.wordpress.com/digital-humanities-projects/</a>).  I was also lead developer for the first version of <a href='http://prism.scholarslab.org/'>Prism</a>, a tool for collaborative interpretations of text.  You can also follow me on Twitter (<a href='https://twitter.com/annieswafford'>@annieswafford</a>).</p>"
 
 - title: Vika Zafrin
   name: vika-zafrin
@@ -76,5 +84,5 @@
   img: VikaZafrin.jpg
   thumbnail: VikaZafrin.jpg
   alt: Picture of Vika Zafrin
-  topic: Topic
-  description: More Info
+  topic:
+  description: "Digital humanist, digital scholarship librarian, storynaut, parent, fellow traveler. Coffee, network, food, feminism. she/her/hers."
