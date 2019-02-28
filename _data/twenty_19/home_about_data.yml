@@ -4,6 +4,12 @@
   info: Background information on the symposium
   link: /about
 
+- inverted: timeline-inverted
+  img: icon-venue.jpeg
+  name: Venue
+  info: Where to go, how to get there
+  link: /venue
+
 # - inverted: timeline-inverted
 #   img: icon-agenda.jpeg
 #   name: Agenda
@@ -15,12 +21,6 @@
   name: Organizing Team
   info: Find out the organizers
   link: /team
-
-- inverted: timeline-inverted
-  img: icon-venue.jpeg
-  name: Venue
-  info: Where to go, how to get there
-  link: /venue
 
 # - inverted:
 #   img: icon-faq.jpeg
