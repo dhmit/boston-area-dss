@@ -1,0 +1,34 @@
+- time: 9:00 AM - 9:25 AM
+  info: "Meet and Greet with Coffee"
+
+- time: 9:25 AM - 9:30 AM
+  info: "Introduction<br><b>Rashmi Singhal</b> <i>Director, Arts and Humanities Research Computing (Harvard)</i>"
+
+- time: 9:30 AM - 9:45 AM
+  info: "Opening Remarks<br><b>Robin Kelsey</b> <i>Dean of Arts and Humanities (Harvard)</i>"
+
+- time: 9:45 AM - 10:45 AM
+  info: "<u>Session 1</u><ul><li><b>Michael Noone</b> <i>Professor of Music; Chair, Music Department (Boston College)</i></li>
+  <li><b>Cathie Jo Martin</b> <i>Professor of Political Science; Director, Center for the Study of Europe (Boston University)</i></li>
+  <li><b>Stephanie Frampton</b> <i>Associate Professor of Literature (MIT)</i> and <b>Mark Szarko</b> <i>Literature, Global Studies and Languages, Philosophy, and Theater Arts Librarian (MIT)</i></li></ul>"
+
+- time: 11:00 AM - 12:00 PM
+  info: "<u>Session 2</u><ul><li><b>Paul Lehrman</b> <i>Senior Lecturer of Music and Multimedia Arts, Director of Music Engineering (Tufts)</i></li>
+  <li><b>Anne Callahan</b> <i>Curatorial Assistant at Harvard College Observatory (Harvard)</i></li>
+  <li>Shady Nasser</b> <i>Assistant Professor of Near Eastern Languages and Civilizations (Harvard)</i></li></ul>"
+
+- time: 12:00 PM - 1:30 PM
+  info: Lunch; Poster session
+
+- time: 1:30 - 2:30 PM
+  info: "<u>Session 3</u><ul><li><b>Jason Prentice</b> <i>Senior Lecturer, Writing Program and Core Curriculum (Boston University)</i></li>
+  <li><b>Sarah Connell</b> <i>Assistant Director of the Women Writers Project and the NULab for Texts, Maps, and Networks (Northeastern)</i></li>
+  <li><b>Stephanie Leone</b> <i>Associate Professor; Department Chair, Art History (Boston College)</i></li></ul>"
+
+- time: 2:45 PM - 3:45 PM
+  info: "<u>Session 4</u><ul><li><b>Jeffrey Ravel</b> <i>Professor of History; Head, History Faculty (MIT)</i></li>
+  <li><b>Greg Crane</b> <i>Professor of Classics & Editor-in-Chief of the Perseus Project (Tufts)</i></li>
+  <li><b>Allison Levy</b> <i>Digital Scholarship Editor (Brown University)</i></li></ul>"
+
+- time: 4:00 PM - 4:15 PM
+  info: "Closing Remarks<br><b>Myke Cuthbert</b> <i>Faculty Director, Digital Humanities (MIT)</i>"

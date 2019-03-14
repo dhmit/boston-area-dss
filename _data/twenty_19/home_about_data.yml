@@ -1,22 +1,22 @@
 - inverted:
+  img: icon-agenda.jpeg
+  name: Agenda
+  info: Check out the agenda
+  link: /agenda
+
+- inverted: timeline-inverted
   img: icon-about.jpeg
   name: About
   info: Background information on the symposium
   link: /about
 
-- inverted: timeline-inverted
+- inverted:
   img: icon-venue.jpeg
   name: Venue
   info: Where to go, how to get there
   link: /venue
 
-# - inverted: timeline-inverted
-#   img: icon-agenda.jpeg
-#   name: Agenda
-#   info: Check out the agenda
-#   link: /agenda
-
-- inverted:
+- inverted: timeline-inverted
   img: icon-team.jpeg
   name: Organizing Team
   info: Find out the organizers
