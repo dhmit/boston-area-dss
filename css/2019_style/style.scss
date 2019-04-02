@@ -20,7 +20,8 @@ $font-secondary: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
         "2016_sass/team",
         "2016_sass/event",
         "2016_sass/about",
-        "2016_sass/form"
+        "2016_sass/form",
+        "2019_sass/posters"
 ;
 
 header .intro-heading {
@@ -38,11 +39,11 @@ header .intro-text .intro-lead-in {
   color: $color-primary;
 }
 
-#speakers .speakers-link img {
+#speakers .speakers-link img, #posters .posters-link img {
   height: 345px;
 }
 
-#speakers .speakers-item .speakers-caption {
+#speakers .speakers-item .speakers-caption, #posters .posters-item .posters-caption {
   min-height: 175px;
 }
 

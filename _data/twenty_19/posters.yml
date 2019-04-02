@@ -1,0 +1,174 @@
+- title: Ife Ademolu-Odeneye
+  name: ife-ademolu-odeneye
+  subtitle: First year student, Programs in Digital Humanities (MIT)
+  img: ademolu-odeneye_ife.jpg
+  thumbnail: ademolu-odeneye_ife.jpg
+  alt:
+  topic: "Gender / Novels: Computational Reading of Gender in Novels, 1770–1922"
+  bio: "Ife Ademolu-Odeneye is a first-year student in the lab of the <a href='https://digitalhumanities.mit.edu/'>Programs in Digital Humanities</a> at MIT. This lab space works on a sequence of projects all addressing the greater overall theme of integrated digital humanities. Their latest project is an investigation of the history of computing at MIT, 1950-62."
+  poster: "<p>Gender / Novels is the inaugural project of the <a href='https://digitalhumanities.mit.edu/'>MIT Digital Humanities Lab</a>, developed in Python by our team of 23 undergraduate students with support from faculty and postdoctoral fellows. Beginning with the creation of a corpus of over 4,200 English-language novels and culminating with the deployment of a custom website built in Flask, we analyzed the description of gender and gender roles across texts written from 1770 to 1922.</p>
+  <p>Although we suspected that there would be a gender imbalance, quantifying the discrepancies proved to be revealing. We calculated the median instance distances between male and female pronouns and found that in one 53,000-word novel, female instances only occurred once every 19,714 words. This is in stark comparison to the distances between male instances; masculine pronouns occur much more frequently, and the book with the greatest distance between male pronouns had an occurrence once every 44 words. When we considered subjectivity versus objectivity of pronouns, our analysis revealed that 72% of all male pronouns in our corpus were subject pronouns while only 45% of female pronouns were subject pronouns. In our work on what adjectives were most associated with male and female characters, we learned that male characters are described with age, goodness, and order ('old,' 'good,' 'last,' 'great,' 'first'), while female characters are described in terms of their appearance ('beautiful,' 'pretty,' 'sweet,' 'lovely'). Each of these discoveries illuminates our understanding of gender relations in our literary corpus of the long 19th century.</p>
+  <p>In our presentation, we will guide attendees through our website, explain data visualizations, discuss our analyses, and walk attendees through our code repository, which is entirely open source. A major contribution of our project is that other humanities scholars can implement our methods to analyze other corpora of texts and build on our existing work.</p>"
+
+- title: Anne Britton
+  name: anne-britton
+  subtitle: Open Access Assistant (Harvard Library Office of Scholarly Communication)
+  img: oa.png
+  thumbnail: oa.png
+  alt:
+  bio: "Anne Britton is a Wikimedian focused on cities in the Global South and the role of librarians and archivists in fostering democratic society. She currently works for the Harvard Library Office for Scholarly Communication. Previously, she worked for the Open Access Tracking Project at Harvard's Berkman Klein Center for Internet & Society."
+  topic: "Modelling Digital Scholarship Networks in Wikidata"
+  poster: "<p>One of the strengths of the 'network' model of institutional infrastructure for digital scholarship is its agility and flexibility over time (Maron and Pickle 2014). One of its potential weaknesses, however, is lack of leadership or coordination of an evolving array of nodes in the network. Wikidata can help with that, at least conceptually, by giving unique identifiers to dynamic projects, personnel, technological tools, funding programs, and institutional or departmental affiliations. Wikidata can be used to describe key parts of a network and the relationships between them. This digital poster will show examples and offer tips on getting started.</p>"
+
+- title: Hamish Cameron
+  name: hamish-cameron
+  subtitle: Visiting Assistant Professor of Classical and Medieval Studies (Bates College)
+  img: HamishCameron.jpg
+  thumbnail: HamishCameron.jpg
+  alt:
+  bio: "Hamish Cameron is an ancient historian teaching in the in the Classical and Medieval Studies Program at Bates College. He holds a PhD in Classics from USC and a certificate in Geographical Information Science from USC's Spatial Studies Institute. His recent book, <em>Making Mesopotamia: Geography and Empire in a Romano-Iranian Borderland</em>, examines the representation of Rome's eastern frontier in imperial geographical writing. His research and teaching interests include using digital venues to communicate of academic information to broader audiences and the pedagogical applications of digital approaches and analog game studies."
+  topic: "Digital Dura"
+  poster: "<p>The Digital Dura project aims to produce a detailed 3D reconstruction of the ancient city of Dura Europus, a borderland city on the south bank of the Euphrates River occupied from the fourth century BCE to the third century CE. The resulting digital model will be viewable in 2D format online and in an immersive VR environment. This model will facilitate an understanding of the environment and lived space in this complex and multifaceted city, such as the role of urban space and movement in the life of the city and the relationship between the urban and religious topographies of the site. The project aims to illuminate these aspects of Durene life through spatial visualization and geospatial analysis.</p>
+  <p>As well as serving as a research tool and as a public-facing piece of scholarly work, a primary focus of Digital Dura is the research process itself. This process is embedded in undergraduate research on the Roman Near East and a reflective examination of the methods of digital history centered around participation in an undergraduate course at Bates College: Rome and the East: Digitizing and Communicating History. In each iteration of this course (3 in total), students engage with primary and secondary evidence and develop their ability to link textual, visual, and material evidence. Through the process of reimagining and reconstruction of spaces, they consider the problems and limits of evidence and the practical and ethical issues involved with the of reconstruction and (re)presentation of lost spaces. The final output of each iteration of the course is a number of 3D digital models of structures within Dura, each model built and reviewed by students. These model are then compiled into an immersive virtual reality tour of Dura Europus, developed with the Unity game engine.</p>"
+
+- title: Lena Denis
+  name: lena-denis
+  subtitle: Cartographic Assistant (Harvard Map Collection)
+  img: lena-denis.jpg
+  thumbnail: lena-denis.jpg
+  alt:
+  bio: "Lena Denis is the Cartographic Assistant at the Harvard University Map Collection, part of the Harvard Library system. She works on digital cartographic data and metadata of various kinds, plus you can find her staffing the Map Collection Reference Desk several days a week. In 2018 she curated the exhibition <a href='https://arcg.is/1LnH4C'>A Fine and Fertile Country: How America Mapped its Meals</a>, about the role of mapping food sources in territorial expansion throughout American history. Her current projects focus on finding innovative ways to display cartographic materials as open data and link them to related resources."
+  topic: "Using Wikidata to Extract Cartographic Resources from Archival Collections"
+  poster: "<p>In my work at the Harvard Map Collection, I sometimes create collection-level library catalog records for cartographic materials that are archival in nature, a rare subset alongside our atlas and sheet map collections. These materials, such as field notebooks containing mathematical calculations and landscape sketches, are challenging to catalog using traditional map cataloging standards. Because of the difficulty of classifying them and the limits of a non-archival cataloging environment, I have had to use precise but limited cataloging vocabulary to describe them physically, e.g. boxes containing notebooks. However, describing these materials at item-level is vitally important to map researchers, who often wish to trace the relationship between these archival documents and the maps they were used to create. Recently, I have turned to open Web solutions that can assist researchers without the adoption of new cataloging practices for the sake of a small number of outliers. Using Wikidata to apply the relational philosophy of Linked Open Data to assert connections between field notebooks, maps, and published atlases, we can demonstrate relationships of these interdependent documents. I will demonstrate this live, by showcasing information I have added to Wikidata, in the form of SPARQL queries that demonstrate relationships between resources. These queries will aid people who research archival references to map creation, including digital humanities practitioners who need to harvest cartographic data. As more libraries adopt and populate Wikidata, I believe my work presents a scalable example of how we can make existing data more expandable and efficient for ever-increasing digital approaches.</p>"
+
+- title: Mingfei Duan
+  name: mingfei-duan
+  subtitle: First year student, Programs in Digital Humanities (MIT)
+  img: duan_mingfei.png
+  thumbnail: duan_mingfei.png
+  alt:
+  bio: "Mingfei Duan is a first-year student in the lab of the <a href='https://digitalhumanities.mit.edu/'>Programs in Digital Humanities</a> at MIT. This lab space works on a sequence of projects all addressing the greater overall theme of integrated digital humanities. Their latest project is an investigation of the history of computing at MIT, 1950-62."
+  topic: "Gender / Novels: Computational Reading of Gender in Novels, 1770–1922"
+  poster: "<p>Gender / Novels is the inaugural project of the <a href='https://digitalhumanities.mit.edu/'>MIT Digital Humanities Lab</a>, developed in Python by our team of 23 undergraduate students with support from faculty and postdoctoral fellows. Beginning with the creation of a corpus of over 4,200 English-language novels and culminating with the deployment of a custom website built in Flask, we analyzed the description of gender and gender roles across texts written from 1770 to 1922.</p>
+  <p>Although we suspected that there would be a gender imbalance, quantifying the discrepancies proved to be revealing. We calculated the median instance distances between male and female pronouns and found that in one 53,000-word novel, female instances only occurred once every 19,714 words. This is in stark comparison to the distances between male instances; masculine pronouns occur much more frequently, and the book with the greatest distance between male pronouns had an occurrence once every 44 words. When we considered subjectivity versus objectivity of pronouns, our analysis revealed that 72% of all male pronouns in our corpus were subject pronouns while only 45% of female pronouns were subject pronouns. In our work on what adjectives were most associated with male and female characters, we learned that male characters are described with age, goodness, and order ('old,' 'good,' 'last,' 'great,' 'first'), while female characters are described in terms of their appearance ('beautiful,' 'pretty,' 'sweet,' 'lovely'). Each of these discoveries illuminates our understanding of gender relations in our literary corpus of the long 19th century.</p>
+  <p>In our presentation, we will guide attendees through our website, explain data visualizations, discuss our analyses, and walk attendees through our code repository, which is entirely open source. A major contribution of our project is that other humanities scholars can implement our methods to analyze other corpora of texts and build on our existing work.</p>"
+
+- title: Maritza Gallegos
+  name: maritza-gallegos
+  subtitle: First year student, Programs in Digital Humanities (MIT)
+  img: gallegos_maritza.png
+  thumbnail: gallegos_maritza.png
+  alt:
+  bio: "Maritza Gallegos is a first-year student in the lab of the <a href='https://digitalhumanities.mit.edu/'>Programs in Digital Humanities</a> at MIT. This lab space works on a sequence of projects all addressing the greater overall theme of integrated digital humanities. Their latest project is an investigation of the history of computing at MIT, 1950-62."
+  topic: "Gender / Novels: Computational Reading of Gender in Novels, 1770–1922"
+  poster: "<p>Gender / Novels is the inaugural project of the <a href='https://digitalhumanities.mit.edu/'>MIT Digital Humanities Lab</a>, developed in Python by our team of 23 undergraduate students with support from faculty and postdoctoral fellows. Beginning with the creation of a corpus of over 4,200 English-language novels and culminating with the deployment of a custom website built in Flask, we analyzed the description of gender and gender roles across texts written from 1770 to 1922.</p>
+  <p>Although we suspected that there would be a gender imbalance, quantifying the discrepancies proved to be revealing. We calculated the median instance distances between male and female pronouns and found that in one 53,000-word novel, female instances only occurred once every 19,714 words. This is in stark comparison to the distances between male instances; masculine pronouns occur much more frequently, and the book with the greatest distance between male pronouns had an occurrence once every 44 words. When we considered subjectivity versus objectivity of pronouns, our analysis revealed that 72% of all male pronouns in our corpus were subject pronouns while only 45% of female pronouns were subject pronouns. In our work on what adjectives were most associated with male and female characters, we learned that male characters are described with age, goodness, and order ('old,' 'good,' 'last,' 'great,' 'first'), while female characters are described in terms of their appearance ('beautiful,' 'pretty,' 'sweet,' 'lovely'). Each of these discoveries illuminates our understanding of gender relations in our literary corpus of the long 19th century.</p>
+  <p>In our presentation, we will guide attendees through our website, explain data visualizations, discuss our analyses, and walk attendees through our code repository, which is entirely open source. A major contribution of our project is that other humanities scholars can implement our methods to analyze other corpora of texts and build on our existing work.</p>"
+
+- title: Eleanor Goerss
+  name: eleanor-goerss
+  subtitle: PhD Student, Department of History of Art and Architecture (Harvard)
+  img: Eleanor-Goerss.jpeg
+  thumbnail: Eleanor-Goerss.jpeg
+  alt:
+  bio: "Eleanor Goerss is a third year graduate student in the Department of History of Art and Architecture. Her dissertation project concerns medieval manuscript illumination, philosophical diagrams, action, adventure, allegory, and the pursuit of truth."
+  topic: "Digital Mary Magdalene"
+  poster: "This is a digital editing project undertaken by a group of graduate students. The goal is to present a medieval legend about Mary Magdalene, found in multiple handwritten manuscripts, in a dynamic and user-friendly way that allows easy access to the text without divorcing it from its original medieval manuscript context. We created an online interface using TEI in order to allow a reader to view digital images of the different manuscript copies. We wanted the viewer to be able to read transcribed versions of the text alongside these images in order to more easily understand the variety and specificity involved in the medieval tradition of storytelling."
+
+- title: Cori Hoover
+  name: cori-hoover
+  subtitle: Academic Technology Consultant (Bates College)
+  img: Cori_Hoover.jpg
+  thumbnail: Cori_Hoover.jpg
+  alt:
+  bio: "Cori Hoover is currently an academic technology consultant at Bates College, where she specializes in 3D and XR technologies. She received her Bachelor’s degree in Egyptology at the University of California, Santa Cruz, where she conducted her own digital research on the site of Deir el Bahri. Since then, she has continued working in the field of Digital Humanities at Bates, partaking in the digital preservation of ancient sites, geospatial analysis and archeological field work."
+  topic: "Digital Dura"
+  poster: "<p>The Digital Dura project aims to produce a detailed 3D reconstruction of the ancient city of Dura Europus, a borderland city on the south bank of the Euphrates River occupied from the fourth century BCE to the third century CE. The resulting digital model will be viewable in 2D format online and in an immersive VR environment. This model will facilitate an understanding of the environment and lived space in this complex and multifaceted city, such as the role of urban space and movement in the life of the city and the relationship between the urban and religious topographies of the site. The project aims to illuminate these aspects of Durene life through spatial visualization and geospatial analysis.</p>
+  <p>As well as serving as a research tool and as a public-facing piece of scholarly work, a primary focus of Digital Dura is the research process itself. This process is embedded in undergraduate research on the Roman Near East and a reflective examination of the methods of digital history centered around participation in an undergraduate course at Bates College: Rome and the East: Digitizing and Communicating History. In each iteration of this course (3 in total), students engage with primary and secondary evidence and develop their ability to link textual, visual, and material evidence. Through the process of reimagining and reconstruction of spaces, they consider the problems and limits of evidence and the practical and ethical issues involved with the of reconstruction and (re)presentation of lost spaces. The final output of each iteration of the course is a number of 3D digital models of structures within Dura, each model built and reviewed by students. These model are then compiled into an immersive virtual reality tour of Dura Europus, developed with the Unity game engine.</p>"
+
+- title: Nam Wook Kim
+  name: nam-wook-kim
+  subtitle: PhD Student, Computer Science (Harvard)
+  img: profile_nam.png
+  thumbnail: profile_nam.png
+  alt:
+  bio: "Nam Wook Kim is a Ph.D. student in Computer Science at Harvard University, working with Hanspeter Pfister and Krzysztof Gajos. His research in visualization and human-computer interaction focuses on lowering the barriers for a general audience to understand and communicate data. He has published at top venues in Computer Science including CHI, CSCW, and InfoVis and has been a research intern at Microsoft Research, Adobe Research, and Disney research. He has received a Rising Star award from the Information is Beautiful Awards and fellowships from the Kwanjeong Educational Foundation and Siebel Scholars Foundation."
+  topic: "Visualizing Nonlinear Narratives with Story Curves"
+  poster: "<p>A nonlinear narrative is a storytelling device that portrays events of a story out of chronological order, e.g., in reverse order or going back and forth between past and future events. Story curves visualize the nonlinear narrative of a movie by showing the order in which events are told in the movie and comparing them to their actual chronological order, resulting in possibly meandering visual patterns in the curve. We also developed Story Explorer, an interactive tool that visualizes a story curve together with complementary information such as characters and settings. Story Explorer further provides a script curation interface that allows users to specify the chronological order of events in movies. We used Story Explorer to analyze 10 popular nonlinear movies and describe the spectrum of narrative patterns that we discovered, including some novel patterns not previously described in the literature.</p>
+  <br/><a href='https://storycurve.namwkim.org/'>https://storycurve.namwkim.org/</a>
+  <br/><a href='https://storyexplorer.namwkim.org/'>https://storyexplorer.namwkim.org/</a>"
+
+- title: Racha Kirakosian
+  name: racha-kirakosian
+  subtitle: Associate Professor of German and the Study of Religion (Harvard)
+  img: Racha-Kirakosian.jpg
+  thumbnail: Racha-Kirakosian.jpg
+  alt:
+  bio: "Professor Kirakosian is Associate Professor of German and the Study of Religion, and she also serves on the Committee on Medieval Studies and the Harvard FAS IT Committee. Professor Kirakosian studied German Philology and History in Göttingen (M.A.), and History of Art and Digital Humanities at the École nationale des Chartes in Paris (M.A.). She received her Dr.Phil. from the University of Oxford, where she was a Marie Curie Research Fellow from 2010 to 2013. Before coming to Harvard, she worked as a Lecturer at the Medieval and Modern Languages Faculty Oxford, and held a position as Lecturer at Somerville College Oxford. She also covered for the Director of Studies for German at Oriel College Oxford."
+  topic: "Digital Mary Magdalene"
+  poster: "This is a digital editing project undertaken by a group of graduate students. The goal is to present a medieval legend about Mary Magdalene, found in multiple handwritten manuscripts, in a dynamic and user-friendly way that allows easy access to the text without divorcing it from its original medieval manuscript context. We created an online interface using TEI in order to allow a reader to view digital images of the different manuscript copies. We wanted the viewer to be able to read transcribed versions of the text alongside these images in order to more easily understand the variety and specificity involved in the medieval tradition of storytelling."
+
+- title: Carol Pan
+  name: carol-pan
+  subtitle: First year student, Programs in Digital Humanities (MIT)
+  img: pan_carol.jpg
+  thumbnail: pan_carol.jpg
+  alt:
+  bio: "Carol Pan is a first-year student in the lab of the <a href='https://digitalhumanities.mit.edu/'>Programs in Digital Humanities</a> at MIT. This lab space works on a sequence of projects all addressing the greater overall theme of integrated digital humanities. Their latest project is an investigation of the history of computing at MIT, 1950-62."
+  topic: "Gender / Novels: Computational Reading of Gender in Novels, 1770–1922"
+  poster: "<p>Gender / Novels is the inaugural project of the <a href='https://digitalhumanities.mit.edu/'>MIT Digital Humanities Lab</a>, developed in Python by our team of 23 undergraduate students with support from faculty and postdoctoral fellows. Beginning with the creation of a corpus of over 4,200 English-language novels and culminating with the deployment of a custom website built in Flask, we analyzed the description of gender and gender roles across texts written from 1770 to 1922.</p>
+  <p>Although we suspected that there would be a gender imbalance, quantifying the discrepancies proved to be revealing. We calculated the median instance distances between male and female pronouns and found that in one 53,000-word novel, female instances only occurred once every 19,714 words. This is in stark comparison to the distances between male instances; masculine pronouns occur much more frequently, and the book with the greatest distance between male pronouns had an occurrence once every 44 words. When we considered subjectivity versus objectivity of pronouns, our analysis revealed that 72% of all male pronouns in our corpus were subject pronouns while only 45% of female pronouns were subject pronouns. In our work on what adjectives were most associated with male and female characters, we learned that male characters are described with age, goodness, and order ('old,' 'good,' 'last,' 'great,' 'first'), while female characters are described in terms of their appearance ('beautiful,' 'pretty,' 'sweet,' 'lovely'). Each of these discoveries illuminates our understanding of gender relations in our literary corpus of the long 19th century.</p>
+  <p>In our presentation, we will guide attendees through our website, explain data visualizations, discuss our analyses, and walk attendees through our code repository, which is entirely open source. A major contribution of our project is that other humanities scholars can implement our methods to analyze other corpora of texts and build on our existing work.</p>"
+
+- title: Chelcie Rowell
+  name: chelcie-rowell
+  subtitle: Team Lead for Digital Scholarship (Tufts)
+  img: rowell-chelcie.jpg
+  thumbnail: rowell-chelcie.jpg
+  alt:
+  bio: "Librarian. Humanist. I cultivate digital scholarship by emboldening people to become critical digital creators and users. As Team Lead for Digital Scholarship at Tisch Library, I work closely with Tufts University faculty, students, and library colleagues to imagine, carry out, and sustain digitally inflected research and teaching."
+  topic: "Cultivating a Digital Library Pedagogy Community of Practice"
+  poster: "The Digital Library Federation (DLF) Digital Library Pedagogy Group, also known as #DLFteach, is a community of practice formed thanks to practitioner interest following the 2015 DLF Forum. The group is open to anyone interested in learning about or collaborating on digital library pedagogy. This poster will illustrate how #DLFteach designs its own composition, following the framework for understanding communities of practice and social learning systems described by Etienne Wenger. Specifically, I will look closely at the events, leadership, connectivity, membership, projects, and artifacts of #DLFteach. The format of this poster will be both physical and digital. The physical poster will illustrate #DLFteach within Wenger's framework, while the digital component will allow me to demonstrate the various artifacts created by the #DLFteach community."
+
+- title: Hannelore Segers
+  name: hannelore-segers
+  subtitle: PhD Student, Classical Philology (Harvard)
+  img: Hannelore-Segers.png
+  thumbnail: Hannelore-Segers.png
+  alt:
+  bio: "Hannelore Segers is a third-year graduate student at Harvard University pursuing a PhD in Classical Philology, after earning an MA in Classical languages and literature at Ghent University, Belgium. Her research interests include Late Antiquity, the transmission of Classical texts, textual criticism, and linguistics. She is currently collaborating in the 'Exploring Medieval Mary Magdalene' project, assisting in the process of transcribing, encoding, and translating Latin versions of the text."
+  topic: "Digital Mary Magdalene"
+  poster: "This is a digital editing project undertaken by a group of graduate students. The goal is to present a medieval legend about Mary Magdalene, found in multiple handwritten manuscripts, in a dynamic and user-friendly way that allows easy access to the text without divorcing it from its original medieval manuscript context. We created an online interface using TEI in order to allow a reader to view digital images of the different manuscript copies. We wanted the viewer to be able to read transcribed versions of the text alongside these images in order to more easily understand the variety and specificity involved in the medieval tradition of storytelling."
+
+- title: Nil Tuzcu
+  name: nil-tuzcu
+  subtitle: Information Designer and Creative Technologist (Harvard Kennedy School)
+  img: Nil-Tuzcu.jpg
+  thumbnail: Nil-Tuzcu.jpg
+  alt:
+  bio: "Nil Tuzcu is an information designer and creative technologist. Her work is at the intersection of data storytelling, experience design, and digital humanities. She designs storytelling projects in a variety of media from interactive multimedia platforms to immersive experiences. Her recent projects include Istanbul Urban Database, an online mapping application to explore the urban history of Istanbul; and an augmented reality platform to visualize multidimensional data. She is currently leading the design of the <em>Atlas of Economic Complexity</em>, a research and data visualization tool used to explore global trade dynamics at the Harvard Kennedy School."
+  topic: "Spatial Storytelling in Digital Scholarship"
+  poster: "<p>Spatial storytelling enables multifaceted inquires in digital humanities and urban research, where complex and multilayered information is processed and presented with the help of spatial and visual technologies. Consequently, new topics such as embodied perception, user experience and interaction, and digital reconstruction are adopted and repurposed in this emerging field. This poster introduces different projects each taking a different approach to storytelling and using a different new media  method. The first project, <a href='http://www.istanbulurbandatabase.com/'>Istanbul Urban Database</a>, is an interactive mapping platform composed of digitized historical urban archives of Istanbul allowing users to explore spatio-temporal layers of Istanbul. The second project, <a href='http://www.niltuzcu.net/i-am-istanbul'>I am Istanbul</a>, is web-based storytelling platform in which users observe the flow of daily life in Istanbul throughout the 20th century via the lives of fictional characters. The final project experiments with augmented reality technology to create an immersive experience to view historical maps of Istanbul.</p>"
+
+- title: Ashley Wilbur
+  name: ashley-wilbur
+  subtitle: Academic Technology Consultant (Bates College)
+  img: Wilbur_A.jpg
+  thumbnail: Wilbur_A.jpg
+  alt:
+  bio: "Ashley Wilbur is currently an Academic Technology Consultant at Bates College. She received her MSc in Computer Games Technology at City, University of London. She previously received her undergraduate degree in Software Engineering at the University of Massachusetts Dartmouth. Her research interests include the power of simulation and gamification in academia, the possibilities of using it as a vehicle for motivation and engagement within students and an emerging tool for educators."
+  topic: "Digital Dura"
+  poster: "<p>The Digital Dura project aims to produce a detailed 3D reconstruction of the ancient city of Dura Europus, a borderland city on the south bank of the Euphrates River occupied from the fourth century BCE to the third century CE. The resulting digital model will be viewable in 2D format online and in an immersive VR environment. This model will facilitate an understanding of the environment and lived space in this complex and multifaceted city, such as the role of urban space and movement in the life of the city and the relationship between the urban and religious topographies of the site. The project aims to illuminate these aspects of Durene life through spatial visualization and geospatial analysis.</p>
+  <p>As well as serving as a research tool and as a public-facing piece of scholarly work, a primary focus of Digital Dura is the research process itself. This process is embedded in undergraduate research on the Roman Near East and a reflective examination of the methods of digital history centered around participation in an undergraduate course at Bates College: Rome and the East: Digitizing and Communicating History. In each iteration of this course (3 in total), students engage with primary and secondary evidence and develop their ability to link textual, visual, and material evidence. Through the process of reimagining and reconstruction of spaces, they consider the problems and limits of evidence and the practical and ethical issues involved with the of reconstruction and (re)presentation of lost spaces. The final output of each iteration of the course is a number of 3D digital models of structures within Dura, each model built and reviewed by students. These model are then compiled into an immersive virtual reality tour of Dura Europus, developed with the Unity game engine.</p>"
+
+- title: Samantha York
+  name: samantha-york
+  subtitle: First year student, Programs in Digital Humanities (MIT)
+  img: york_samantha.jpg
+  thumbnail: york_samantha.jpg
+  alt:
+  bio: "Samantha York is a first-year student in the lab of the <a href='https://digitalhumanities.mit.edu/'>Programs in Digital Humanities</a> at MIT. This lab space works on a sequence of projects all addressing the greater overall theme of integrated digital humanities. Their latest project is an investigation of the history of computing at MIT, 1950-62."
+  topic: "Gender / Novels: Computational Reading of Gender in Novels, 1770–1922"
+  poster: "<p>Gender / Novels is the inaugural project of the <a href='https://digitalhumanities.mit.edu/'>MIT Digital Humanities Lab</a>, developed in Python by our team of 23 undergraduate students with support from faculty and postdoctoral fellows. Beginning with the creation of a corpus of over 4,200 English-language novels and culminating with the deployment of a custom website built in Flask, we analyzed the description of gender and gender roles across texts written from 1770 to 1922.</p>
+  <p>Although we suspected that there would be a gender imbalance, quantifying the discrepancies proved to be revealing. We calculated the median instance distances between male and female pronouns and found that in one 53,000-word novel, female instances only occurred once every 19,714 words. This is in stark comparison to the distances between male instances; masculine pronouns occur much more frequently, and the book with the greatest distance between male pronouns had an occurrence once every 44 words. When we considered subjectivity versus objectivity of pronouns, our analysis revealed that 72% of all male pronouns in our corpus were subject pronouns while only 45% of female pronouns were subject pronouns. In our work on what adjectives were most associated with male and female characters, we learned that male characters are described with age, goodness, and order ('old,' 'good,' 'last,' 'great,' 'first'), while female characters are described in terms of their appearance ('beautiful,' 'pretty,' 'sweet,' 'lovely'). Each of these discoveries illuminates our understanding of gender relations in our literary corpus of the long 19th century.</p>
+  <p>In our presentation, we will guide attendees through our website, explain data visualizations, discuss our analyses, and walk attendees through our code repository, which is entirely open source. A major contribution of our project is that other humanities scholars can implement our methods to analyze other corpora of texts and build on our existing work.</p>"
