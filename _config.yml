@@ -1,6 +1,6 @@
 title: Boston Area Digital Scholarship Symposium
 description: Boston–Area Digital Scholarship Symposium 2020
-baseurl: "/boston-area-dss" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://bdss2020.dhmit.xyz" # the base hostname & protocol for your site
 
 # Build settings
