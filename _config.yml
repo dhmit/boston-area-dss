@@ -1,22 +1,14 @@
 title: Boston Area Digital Scholarship Symposium
-description: > # this means to ignore newlines until "baseurl:"
-  First Annual Boston–Area Digital Scholarship Symposium:
-  “Institutional Models of Collaborative Support”
+description: Boston–Area Digital Scholarship Symposium 2020
 baseurl: "/boston-area-dss" # the subpath of your site, e.g. /blog
-url: "https://harvard-dssg.github.io/boston-area-dss/" # the base hostname & protocol for your site
+url: "https://bdss2020.dhmit.xyz" # the base hostname & protocol for your site
+
 # Build settings
 markdown: kramdown
 
-facebook:
-  app_id:
 
 logo: "/css/2019_style/img/logos/logo.svg"
 
-# social:
-#   name: Your Facebook Page
-#   link: "https://www.facebook.com/"
-
-# google_site_verification: googleXXXXXXXXXXXXXXXX.html
 
 include: ['_2016_pages', '_2019_pages']
 
@@ -24,7 +16,15 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 
+# Social integrations, etc. -- unused for now
+
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+# facebook:
+#  app_id:
+# social:
+#   name: Your Facebook Page
+#   link: "https://www.facebook.com/"
+# google_site_verification: googleXXXXXXXXXXXXXXXX.html
 # social:
 #   - title: facebook
 #     url: https://www.facebook.com
