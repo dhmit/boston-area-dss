@@ -1,0 +1,35 @@
+- inverted:
+  img: icon-agenda.jpeg
+  name: Agenda
+  info: Check out the agenda
+  link: /agenda
+
+- inverted: timeline-inverted
+  img: icon-about.jpeg
+  name: About
+  info: Background information on the symposium
+  link: /about
+
+- inverted:
+  img: icon-venue.jpeg
+  name: Venue
+  info: Where to go, how to get there
+  link: /venue
+
+- inverted: timeline-inverted
+  img: icon-team.jpeg
+  name: Organizing Team
+  info: Find out the organizers
+  link: /team
+
+# - inverted:
+#   img: icon-faq.jpeg
+#   name: FAQs
+#   info: Have a Question? Many answers can be found right here in our FAQs
+#   link: /faqs
+
+# - inverted: timeline-inverted
+#   img: booklet-icon.png
+#   name: Event Booklet
+#   info: View or Download our event booklet
+#   link: /booklet
