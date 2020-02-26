@@ -1,0 +1,26 @@
+.-twentytwenty-index h2 {
+  text-align: center;
+  line-height: 1.3em;
+  margin: 20px auto;
+}
+
+.-twentytwenty-index hr {
+  max-width: 120px;
+  background: #eee;
+  border-radius: 1px;
+  margin: 40px auto;
+  height: 4px;
+}
+
+.-twentytwenty-index p {
+  margin: 24px auto;
+  max-width: 720px;
+  width: 90%;
+
+}
+
+.-twentytwenty-index #call-for-posters ul {
+  margin: 24px auto;
+  padding: 0 20px;
+  max-width: 720px;
+  width: 90%;

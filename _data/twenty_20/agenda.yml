@@ -1,0 +1,48 @@
+- time: 9:00 AM - 9:25 AM
+  info: "Meet and Greet with Coffee"
+
+- time: 9:25 AM - 9:30 AM
+  info: "Introduction<br><b>Rashmi Singhal</b> (Harvard) - <i>Director, Arts and Humanities Research Computing</i>"
+
+- time: 9:30 AM - 9:45 AM
+  info: "Opening Remarks<br><b>Robin Kelsey</b> (Harvard) - <i>Dean of Arts and Humanities</i>"
+
+- time: 9:45 AM - 10:45 AM
+  info: "<u>Session 1</u><ul><li><b>Michael Noone</b> (Boston College): The Encoded 14th-century Franciscan Antiphoner</li>
+  <li><b>Cathie Jo Martin</b> (Boston University): Imagine All the People</li>
+  <li><b>Stephanie Frampton</b> (MIT) and <b>Mark Szarko</b> (MIT): Laughing Room</li></ul>"
+
+- time: 10:45 AM - 11:00 AM
+  info: Break (Coffee, Tea)
+
+- time: 11:00 AM - 12:00 PM
+  info: "<u>Session 2</u><ul><li><b>Paul Lehrman</b> (Tufts): Electronic Musical Instrument Design</li>
+  <li><b>Anne Callahan</b> (Harvard): Archive of African American Folklore</li>
+  <li><b>Shady Nasser</b> (Harvard): Encyclopedia of the Variant Readings of the Qurʾān</li></ul>"
+
+- time: 12:00 PM - 1:30 PM
+  info: "<u>Lunch</u><br /><br/><u>Poster Session</u><ul>
+  <li><b>Chelcie Rowell</b> (Tufts): Cultivating a Digital Library Pedagogy Community of Practice</li>
+  <li><b>Hamish Cameron, Cori Hoover, and Ashley Wilbur</b> (Bates): Digital Dura</li>
+  <li><b>Eleanor Goerss, Racha Kirakosian, and Hannelore Segers</b> (Harvard): Digital Mary Magdalene</li>
+  <li><b>Ife Ademolu-Odeneye, Mingfei Duan, Maritza Gallegos, Carol Pan, and Samantha York</b> (MIT): Gender / Novels: Computational Reading of Gender in Novels, 1770–1922</li>
+  <li><b>Anne Britton</b> and <b>Lena Denis</b> (Harvard): Wikidata for Digital Scholarship</li>
+  <li><b>Nil Tuzcu</b> (Harvard): Spatial Storytelling in Digital Scholarship</li>
+  <li><b>Nam Wook Kim</b> (Harvard): Visualizing Nonlinear Narratives with Story Curves</li>
+  </ul>"
+
+- time: 1:30 - 2:30 PM
+  info: "<u>Session 3</u><ul><li><b>Jason Prentice</b> (Boston University): Digital/Multimedia Expression, Freshman Writing, and General Education at BU</li>
+  <li><b>Sarah Connell</b> (Northeastern): The Women Writers Project</li>
+  <li><b>Stephanie Leone</b> (Boston College): Pope Innocent X Pamphilj's Architectural Network in Baroque Rome</li></ul>"
+
+- time: 2:30 PM - 2:45 PM
+  info: Break (Coffee, Tea, Snacks)
+
+- time: 2:45 PM - 3:45 PM
+  info: "<u>Session 4</u><ul><li><b>Jeffrey Ravel</b> (MIT): The Visualizing Maritime History Project</li>
+  <li><b>Greg Crane</b> (Tufts): Perseus Digital Library Project</li>
+  <li><b>Allison Levy</b> (Brown University): Brown University Digital Publications Initiative</li></ul>"
+
+- time: 3:45 PM - 4:00 PM
+  info: "Closing Remarks<br><b>Myke Cuthbert</b> (MIT) - <i>Faculty Director, Digital Humanities</i>"
