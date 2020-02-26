@@ -1,0 +1,68 @@
+---
+---
+$color-primary: #44b6e2;
+$color-secondary: lighten($color-primary, 10%);
+$color-secondary-dark: #00283c;
+$color-muted: #777;
+
+$font-primary: Montserrat, "Helvetica Neue", Helvetica,Arial, sans-serif;
+$font-secondary: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+// Imports from _sass
+
+@import "includes/bootstrap";
+@import "includes/agency";
+
+@import
+        "2016_sass/more",
+        "2016_sass/404",
+        "2016_sass/agenda",
+        "2016_sass/team",
+        "2016_sass/event",
+        "2016_sass/about",
+        "2016_sass/form",
+        "2019_sass/posters"
+;
+
+header .intro-heading {
+  -webkit-text-stroke-width: 3px;
+  -webkit-text-stroke-color: #000;
+}
+header .intro-text .intro-lead-in {
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: #000;
+  font-family: $font-primary;
+  font-style: initial;
+  font-weight: 900;
+}
+.event a {
+  color: $color-primary;
+}
+
+#speakers .speakers-link img, #posters .posters-link img {
+  height: 345px;
+}
+
+#speakers .speakers-item .speakers-caption, #posters .posters-item .posters-caption {
+  min-height: 175px;
+}
+
+.headshot {
+  max-height: 300px;
+}
+
+footer {
+  text-align: left;
+  font-size: 14px;
+}
+
+.dssg_logo {
+  max-height: 75px;
+  float: left;
+  margin-right: 15px;
+  vertical-align: text-top;
+}
+.darken {
+  background-color: rgba(0, 0, 0, 0.6);
+  height: 100vh;
+}
