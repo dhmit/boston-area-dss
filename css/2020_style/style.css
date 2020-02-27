@@ -29,3 +29,39 @@
 .btn.btn-primary a {
   color: #fff;
 }
+
+.dhlab_logo {
+  max-width: 210px;
+  padding: 20px 0;
+}
+
+.row.footer-row {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.footer-col-byline {
+  text-align: right;
+}
+
+@media screen and (max-width : 600px){
+  .row.footer-row {
+    justify-content: center;
+  }
+  .footer-col {
+    width: 100%;
+    text-align: center;
+    display:flex;
+  }
+  .footer-col img {
+    margin:  0px auto;
+  }
+
+  #call-for-posters .cfp-submit-link {
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+  }
+}
