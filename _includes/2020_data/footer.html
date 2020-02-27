@@ -16,20 +16,20 @@ footer {
 
 <footer>
     <div class="container">
-        <div class="row">
-            <div class="col-md-6">
+        <div class="footer-row row">
+            <div class="footer-col col-md-6">
               <img class="dssg_logo dhlab_logo" src="{{ site.baseurl }}/css/2020_style/logos/mit_dhlab_teal_RGB.png" />
             </div>
-            <div class="col-md-6">
+            <div class="footer-col footer-col-byline col-md-6">
               <p>Created by
                 <a href="https://dssg.fas.harvard.edu/">Harvard University Digital Scholarship Support Group</a> and the
                 <a href="https://digitalhumanities.mit.edu/">Programs in Digital Humanities at MIT</a>
               </p>
-                <ul class="list-inline social-buttons">
-                    {% for network in site.social %}
-                        <li><a href="{{ network.url }}"><i class="fa fa-{{ network.title }}"></i></a></li>
-                    {% endfor %}
-                </ul>
+              <ul class="list-inline social-buttons">
+                {% for network in site.social %}
+                    <li><a href="{{ network.url }}"><i class="fa fa-{{ network.title }}"></i></a></li>
+                {% endfor %}
+              </ul>
             </div>
         </div>
     </div>
