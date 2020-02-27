@@ -39,7 +39,6 @@
   display: flex;
   justify-content: space-around;
   align-items: center;
-  flex-wrap: wrap;
 }
 
 .footer-col-byline {
@@ -49,6 +48,7 @@
 @media screen and (max-width : 600px){
   .row.footer-row {
     justify-content: center;
+    flex-wrap: wrap;
   }
   .footer-col {
     width: 100%;
